@@ -34,7 +34,6 @@ buildscript {
 
 allprojects {
   apply(plugin: "spinnaker.base-project")
-  
   group = "com.netflix.spinnaker.kork"
 
   repositories {
